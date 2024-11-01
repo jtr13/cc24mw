@@ -18,11 +18,11 @@ In addition open RStudio and update to the latest version by clicking "Help" "Ch
 
 ### Set up Pages (GitHub)
 
-- [ ] 1. You've now left the template page and are viewing your new repo on GitHub. On the home page, click Settings. Click the "Pages" section on the left. In the **Build and Deployment** section, set **Source** to "Deploy from a branch" (Classic Pages experience) and **Branch** to **main** with **/docs** folder. Click Save. 
+- [x] 1. You've now left the template page and are viewing your new repo on GitHub. On the home page, click Settings. Click the "Pages" section on the left. In the **Build and Deployment** section, set **Source** to "Deploy from a branch" (Classic Pages experience) and **Branch** to **main** with **/docs** folder. Click Save. 
 
-- [ ] 2. Click the little gear button near "About" on the top right side of the home page of the repo and check the "Use your Github Pages website" box under "Website". Click "Save changes". Test the link and you should see a web site with a stick figure on it. It may take a few minutes to build so if it's not working do a few more steps and then come back to check.
+- [x] 2. Click the little gear button near "About" on the top right side of the home page of the repo and check the "Use your Github Pages website" box under "Website". Click "Save changes". Test the link and you should see a web site with a stick figure on it. It may take a few minutes to build so if it's not working do a few more steps and then come back to check.
 
-### Copy the repo link (GitHub)
+### Copy the repo link (GitHub) <-- start here  (about 5 min 25 sec in video)
 
 - [ ] 1. Click the green Code button, choose "HTTPS" and copy the link below. It should have the format: `https://github.com/[USERNAME]/[REPO NAME].git`
 
