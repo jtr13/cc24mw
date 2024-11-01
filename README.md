@@ -1,4 +1,4 @@
-# website-template
+# cc24mw
 
 [Video tutorial](https://youtu.be/YN75YXaLFGM)
 
