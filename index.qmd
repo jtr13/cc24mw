@@ -1,21 +1,75 @@
 ---
-title: "About Me"
-about:
-  id: me
-  template: broadside
-  image: img/profile.png
+title: "Community Contributions 2024
 ---
 
-:::{#me}
+Monday / Wednesday section 
 
-## Community Contributions 2024
 
-[Google search](https://www.google.com)
+[Community Contribution - Sorting Text Data with parcoords()](https://youtu.be/5GxgV10E2PI)
+[Andy Yang EDAV Community Contribution](https://www.youtube.com/watch?v=o27_gMRWF8g)
+[R Shiny App Demo](https://youtu.be/5jwManOW4vQ)
+[Community Contribution Video Tutorial for STATGR5702: Working with Satellite Data](https://youtu.be/AaOfeoalbok)
+[EDAV: Community Contribution](https://youtu.be/GkA9mwMVYxc)
+[Video Tutorial on forecasting with R](https://www.youtube.com/watch?v=bfEu_3j5v2M)
+[Making Maps in R with geom_map - Community Contribution](https://youtu.be/61IEnmwATd8)
+[Mastering R Package Installation: A Community Guide](https://www.youtube.com/watch?v=olV2lskENCg)
+[Caterina Almazan EDAV Community Contribution Project](https://youtu.be/qvZpmMAZLq4)
+[Community Contribution Video](https://youtu.be/TZW9zo2P59o)
+[Introduction of rworldmap](https://youtu.be/jPosxv5OLnQ)
+[EDAV- Community Contribution sm5755, za2366](https://youtu.be/fYGwPlXXE6Y?si=NDgkEe4Ak6Xgcqla)
+[EDAV Community Contribution: SF and GGanimate R Packages](https://www.youtube.com/watch?v=wfwZkcwGaEg)
+[2024 Fall EDAV 5702 Community Contribution Group 13](https://youtu.be/OLDX0odlY-s)
+[STAT5702 Community Contribution](https://youtu.be/-rcPJ4fkz5w)
+[Edav Video](https://www.youtube.com/watch?v=9vZBzNXvuYg)
+[EDAV Community Contribution](https://youtu.be/VbzwwEp558k)
+[Community Contribution - gganimate](https://youtu.be/-n6QG2tHB1s)
+[EDAV Community Contribution](https://youtu.be/ImEUAi2FLUc?si=-4fpD4F1Ok-0Pn-m)
+[Marissa Inga & Victoria Lin Community Contribution Fall 2024](https://www.youtube.com/watch?v=xod5_VUEQKM)
+[Group CC 20: EDAV Community Contribution (aps2249 and pns2129)](https://youtu.be/JUkYfUjfxSU)
+[PCA with McDonald's India Menu Dataset](https://www.youtube.com/watch?v=QO5SKwuPJB0)
+[EDAV Community Contribution - Yufei Duan & Jiarui Wang - Fall24](https://www.youtube.com/watch?v=3f6-ysBL32s)
+[Fall 2024 STAT 5702 Community Contribution Video](https://youtu.be/1N1z3V9UD1w)
+[NASCAR Data Analysis and Top 10 Finish Prediction | Group-24 EDAV Community Contribution Project](https://youtu.be/FlQ_ufEPgXs)
+[EDAV Video Tutorial](https://youtu.be/GONaDgpLINA)
+[Community Contribution CC-26 ggVennDiagram (STATGRS5702 EDAV)](https://www.youtube.com/watch?v=ibUTHZ5YHyw)
+[STATGR5702 EDAV - Community Contribution - Sahil (sc5592) & Sharvay (sc5593)](https://www.youtube.com/watch?v=jEKt5FGH7l8&feature=youtu.be)
+[How to uncover patterns in NYC airbnb data](https://www.youtube.com/watch?v=P_ur3VfK77E)
+[Fall 2024 5702 Community Contribution](https://www.youtube.com/watch?v=T0odG6bbZdg)
+[EDAV Community Contribution Video: READXL](https://youtu.be/0lF6Z2eVKcw)
+[EDAV Community Contribution](https://youtu.be/C8d_CK4IBPk)
+[WorldfootballR: Extract & Clean Soccer Data Easily](https://www.youtube.com/watch?v=k0GMESncSsQ)
+[EDAV Community Contribution: Plumber API](https://youtu.be/Msjct2Gg0RU)
+[EDAV Community Contribution (CC8) Video](https://youtu.be/2TAmtKQ2wqQ)
+[Community Contribution CC9 ( STATGR5702 : EDAV )](https://youtu.be/6qj7RCK0Fgc)
+[Rcolors: Generate and Customize Beautiful Color Palettes for Graphing in R](https://www.youtube.com/watch?v=YKMVwR67Cnw)
+[Christine Sharabun EDAV (STAT GR 5702) Community Contribution Final Video](https://www.youtube.com/watch?v=MaHJMXIi_o4)
+[Codebooks & Integration into R - CJ Concepcion - EDAV Fall 2024 Community Contribution](https://www.youtube.com/watch?v=hiYYXUGYh10)
+[Intuitive Likert Data Transformation and Direct Plot Tool   R Package `surveylikert`](https://youtu.be/4ldIACPNCco?si=sEyMegnewCKKLyrM)
+[R Janitor's clean_names() Function Details - Cooper Orio EDAV Community Contribution 2024](https://youtu.be/wgeWjIDmeG0)
+[EDAV Community Contribution](https://youtu.be/N7nETUCxxjk)
+[Community Contribution](https://youtu.be/SW2gGr7oi0s)
+[How to create a network in Gephi in 5 minutes?](https://www.youtube.com/watch?v=VO2xDiIqC3g)
+[Jojo Community Contribution - Package NutrienTrackeR](https://youtu.be/xKLbejR8yhs)
+[EDAV Fall 2024 Community Contribution (jm5890)](https://youtu.be/UAFEKmR_n0U)
+[EDAV Community Contribution - Justin Kim](https://www.youtube.com/watch?v=3rNZrSirMz8)
+[IMF data analysis and visualization with R](https://youtu.be/4XE2q8uLXPM)
+[Video Tutorial](https://youtu.be/WaswgWXgBaI)
+[Create percentage stacked bar plots of likert data using mikit likertbar](https://youtu.be/Q_05iWX7YxM?si=erdP9VW0JUahGyTr)
+[Installing Observable Framework from Zero | Columbia Data Club - 2024.11.02](https://www.youtube.com/watch?v=QA6by44cuvs)
+[ggtree tutorial](https://youtu.be/2XrMgPuODgA)
+[Community Contribution Project EDAV](https://youtu.be/8fiP1CvtGec)
+[Zimeng Li (zl2804) EDAV Community Contribution](https://youtu.be/7sVJazRjEJw)
+[STAT5702 EDAV Community Contribution: Dimensionality Reduction and Visualization with t-SNE in R](https://youtu.be/MP00xoA0nvs)
+[Sharon Tsai_EDAV video contribution](https://youtu.be/61t9TF20q5w)
+[EDAV Community contribution](https://youtu.be/RLM469NUsvo)
+[An Introduction to Chord Diagrams in R](https://youtu.be/0WwClpcUfGc)
+[EDAV Community Contribution  - TJL2150](https://youtu.be/xU7VQ0WVq6Y)
+[Exploratory Data Analysis Tutorial](https://youtu.be/eHiJe9fUdE0)
+[STAT5702_Community Contribution_Create Geographic Heat Map in Studio](https://youtu.be/Z5hr2ChuI4k)
+[Handling missing values using MICE Package in R](https://youtu.be/63STyvG3qDQ)
+[Community Contribution STATGR5702 - easyalluvium](https://youtu.be/e5JV6Ewa9Dg)
+[How to visualize t-test and ANOVA result using ggstatsplot in R？](https://youtu.be/KdtR3xnXjiE)
+[Community Contribution Assignment EDAV](https://youtu.be/rPuT0h_qUQw)
+[EDAV_Community Contribution: Video Tutorial](https://youtu.be/_EwxNDvOZxQ)
+[EDAV - Surveydata Package Tutorial](https://youtu.be/OBXvE3xdnvA)
 
-## Education
-
-## Experience
-
-:::
-
-Thanks for checking out my web site!
